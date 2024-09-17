@@ -14,6 +14,6 @@ public class TestController {
 
     @GetMapping
     public void david() {
-        System.out.println("test      " + test);
+        System.out.println("test       " + test);
     }
 }
